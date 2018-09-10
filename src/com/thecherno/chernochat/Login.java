@@ -15,7 +15,7 @@ import javax.swing.border.EmptyBorder;
 
 public class Login extends JFrame {
 	private static final long serialVersionUID = 1L;
-
+//prueba
 	private JPanel contentPane;
 	private JTextField txtName;
 	private JTextField txtAddress;
